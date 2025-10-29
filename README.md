@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hobbies To-Do List App
 
 A React Native mobile application for managing your hobbies using Expo and AsyncStorage for local data persistence. Built as a final project demonstrating modern mobile app development practices.
@@ -179,3 +180,6 @@ cd mobile && npm run web
 ```
 
 Enjoy managing your hobbies! 🎯
+=======
+# TodolistHobbies
+>>>>>>> b8d5daad9cef0cce97da6f86f5a1dc41008d3f5c
