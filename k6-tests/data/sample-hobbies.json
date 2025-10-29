@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Morning Running",
+    "description": "Run 3 miles every morning before work",
+    "category": "Sports",
+    "priority": "High",
+    "completed": true
+  },
+  {
+    "title": "Learn to Play Guitar",
+    "description": "Master basic chords and learn to play 10 popular songs",
+    "category": "Music",
+    "priority": "High",
+    "completed": false
+  },
+  {
+    "title": "Watercolor Painting",
+    "description": "Create a series of landscape paintings",
+    "category": "Art & Creative",
+    "priority": "Medium",
+    "completed": false
+  },
+  {
+    "title": "Read The Great Gatsby",
+    "description": "Finish reading this classic American novel",
+    "category": "Reading",
+    "priority": "Low",
+    "completed": false
+  },
+  {
+    "title": "Build a Mobile App",
+    "description": "Learn React Native and build a hobby tracking app",
+    "category": "Technology",
+    "priority": "High",
+    "completed": false
+  },
+  {
+    "title": "Master French Baking",
+    "description": "Learn to make croissants, éclairs, and macarons",
+    "category": "Cooking",
+    "priority": "Medium",
+    "completed": false
+  },
+  {
+    "title": "Plan Japan Trip",
+    "description": "Research destinations, book hotels, and create itinerary",
+    "category": "Travel",
+    "priority": "Low",
+    "completed": true
+  },
+  {
+    "title": "Pottery Classes",
+    "description": "Take a 6-week pottery course at the local studio",
+    "category": "Art & Creative",
+    "priority": "Medium",
+    "completed": false
+  }
+]
+

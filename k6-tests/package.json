@@ -1,0 +1,21 @@
+{
+  "name": "hobbies-k6-tests",
+  "version": "1.0.0",
+  "description": "K6 load testing for Hobbies To-Do List app",
+  "scripts": {
+    "test": "./run-tests.sh",
+    "start-mock": "node mock-server.js"
+  },
+  "keywords": [
+    "k6",
+    "load-testing",
+    "performance"
+  ],
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {},
+  "private": true
+}
+
